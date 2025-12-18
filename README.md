@@ -24,13 +24,9 @@ Environment: Node.js / Browser Console
 
 Tools: VS Code, Git, GitHub
 
-Learning Goals
-Build a strong foundation in JavaScript
-
-Improve problem-solving skills
-
-Write clean and maintainable code
-
-Prepare for frontend frameworks like React
-
-Understand JavaScript used in real projects
+🎯 Learning Goals
+🔥 Build a strong and rock-solid foundation in JavaScript
+🧠 Sharpen problem-solving and logical thinking skills
+✨ Write clean, readable, and maintainable code following best practices
+⚛️ Prepare confidently for modern frontend frameworks like React
+🚀 Understand and apply JavaScript in real-world projects
